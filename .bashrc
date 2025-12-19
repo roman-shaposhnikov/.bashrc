@@ -25,6 +25,9 @@ alias gco='git checkout'
 alias gm='git merge'
 alias gsw='git switch'
 
+## Docker
+alias d='docker'
+
 alias lg='lazygit'
 alias ld='lazydocker'
 
